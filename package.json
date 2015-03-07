@@ -1,0 +1,14 @@
+{
+  "name": "openelections-data-ma",
+  "version": "1.0.0",
+  "description": "Data scraping scripts for MA election data.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "downcache": "0.0.7",
+    "fs-extra": "^0.16.4"
+  },
+  "devDependencies": {},
+  "author": "Pratheek Rebala <pratheekrebala@gmail.com>",
+  "license": "ISC"
+}
